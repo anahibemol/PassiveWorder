@@ -10,6 +10,8 @@ Set the code you want on the curly braces below the if conditional
 
 Set the code you want to show if the password is wrong below the else conditional
 
+The default password is "1234" PLEASE CHANGE IT IF YOU INTEND IN USING MY CODE AS PART OF YOURS FOR SECURITY REASONS
+
 You can further enhance the code by putting else if statements between the if and else statements for adding aditional passwords to other codes you might want,
 for example, you can add a password for teachers on "if" and a password for students on "else if" so you can use the same program for both teachers and students.
 
